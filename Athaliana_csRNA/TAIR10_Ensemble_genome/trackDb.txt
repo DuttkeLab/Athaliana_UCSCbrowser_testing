@@ -1,0 +1,26 @@
+track Athaliana_csRNA
+container multiWig
+noInherit on
+shortLabel Athaliana_csRNA
+longLabel Athaliana_csRNA
+type bigWig
+configurable on
+visibility full
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+autoScale on
+windowingFunction maximum
+priority 1.4
+alwaysZero on
+yLineMark 0
+yLineOnOff on
+maxHeightPixels 125:125:11
+
+track arabidopsis_thaliana-cells_csRNA-r1+
+bigDataUrl arabidopsis_thaliana-cells_csRNA-r1neg.ucsc.bigWig
+shortLabel arabidopsis_thaliana-cells_csRNA-r1+
+longLabel arabidopsis_thaliana-cells_csRNA-r1+
+type bigWig
+parent Athaliana_csRNA
+color 255,150,150
+

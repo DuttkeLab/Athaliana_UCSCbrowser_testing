@@ -1,0 +1,9 @@
+# This is a hub file for the Wash U Epigenome Browser
+bigwig	https://public.vetmed.wsu.edu/DuttkeLab/plants2023/Athaliana_csRNA/TAIR10_Ensemble_genome/arabidopsis_thaliana-cells_csRNA-r1pos.ucsc.bigWig	arabidopsis_thaliana-cells_csRNA-r1+	show	colorpositive:#990000,colornegative:#004080
+bigwig	https://public.vetmed.wsu.edu/DuttkeLab/plants2023/Athaliana_csRNA/TAIR10_Ensemble_genome/arabidopsis_thaliana-cells_csRNA-r1neg.ucsc.bigWig	arabidopsis_thaliana-cells_csRNA-r1-	show	colorpositive:#990000,colornegative:#004080
+bigwig	https://public.vetmed.wsu.edu/DuttkeLab/plants2023/Athaliana_csRNA/TAIR10_Ensemble_genome/arabidopsis_thaliana-cells_csRNA-r2pos.ucsc.bigWig	arabidopsis_thaliana-cells_csRNA-r2+	show	colorpositive:#990000,colornegative:#004080
+bigwig	https://public.vetmed.wsu.edu/DuttkeLab/plants2023/Athaliana_csRNA/TAIR10_Ensemble_genome/arabidopsis_thaliana-cells_csRNA-r2neg.ucsc.bigWig	arabidopsis_thaliana-cells_csRNA-r2-	show	colorpositive:#990000,colornegative:#004080
+bigwig	https://public.vetmed.wsu.edu/DuttkeLab/plants2023/Athaliana_csRNA/TAIR10_Ensemble_genome/arabidopsis_thaliana-leaf_csRNA-r1pos.ucsc.bigWig	arabidopsis_thaliana-leaf_csRNA-r1+	show	colorpositive:#990000,colornegative:#004080
+bigwig	https://public.vetmed.wsu.edu/DuttkeLab/plants2023/Athaliana_csRNA/TAIR10_Ensemble_genome/arabidopsis_thaliana-leaf_csRNA-r1neg.ucsc.bigWig	arabidopsis_thaliana-leaf_csRNA-r1-	show	colorpositive:#990000,colornegative:#004080
+bigwig	https://public.vetmed.wsu.edu/DuttkeLab/plants2023/Athaliana_csRNA/TAIR10_Ensemble_genome/arabidopsis_thaliana-leaf_csRNA-r2pos.ucsc.bigWig	arabidopsis_thaliana-leaf_csRNA-r2+	show	colorpositive:#990000,colornegative:#004080
+bigwig	https://public.vetmed.wsu.edu/DuttkeLab/plants2023/Athaliana_csRNA/TAIR10_Ensemble_genome/arabidopsis_thaliana-leaf_csRNA-r2neg.ucsc.bigWig	arabidopsis_thaliana-leaf_csRNA-r2-	show	colorpositive:#990000,colornegative:#004080

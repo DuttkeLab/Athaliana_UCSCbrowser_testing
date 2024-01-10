@@ -1,0 +1,2 @@
+genome TAIR10_Ensemble_genome
+trackDb TAIR10_Ensemble_genome/trackDb.txt

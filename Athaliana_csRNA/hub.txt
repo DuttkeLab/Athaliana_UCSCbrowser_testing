@@ -1,0 +1,5 @@
+hub Athaliana_csRNA
+shortLabel Athaliana_csRNA
+longLabel Athaliana_csRNA
+genomesFile genomes.txt
+email ian.brabb@wsu.edu
